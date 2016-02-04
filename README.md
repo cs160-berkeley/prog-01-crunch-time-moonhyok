@@ -12,7 +12,7 @@ Moonhyok Kim ([moonhyok@berkeley.edu](mailto:moonhyok@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [your demo video title here] (https://youtu.be/QNuLRdSv8-Q)
 
 ## Screenshots
 
@@ -26,4 +26,3 @@ by Bill Phillips and Brian Hardy
 * Hat tip to anyone who's code was used
 * Any other support
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
