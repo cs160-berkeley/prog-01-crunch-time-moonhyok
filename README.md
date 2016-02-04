@@ -1,10 +1,14 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+First mobile application made by Moonhyok Kim.
+
+There could be major improvements, but the application provides crude estimation of 
+calories burnt for a given exercise as well as amount of exercise needed to do to burn
+up a specified calorie.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Moonhyok Kim ([moonhyok@berkeley.edu](mailto:moonhyok@berkeley.edu))
 
 ## Demo Video
 
@@ -15,6 +19,9 @@ See [your demo video title here] (https://link_to_your_video)
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
+
+Android Programming: The Big Nerd Ranch Guide
+by Bill Phillips and Brian Hardy
 
 * Hat tip to anyone who's code was used
 * Any other support
