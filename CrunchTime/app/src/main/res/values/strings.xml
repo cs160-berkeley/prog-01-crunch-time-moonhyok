@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_value">Enter Reps/Minutes Of</string>
+    <string name="enter_cal">Enter Target Calories For</string>
+    <string name="cal_equiv">Choose To See Equivalent Calories Burned For </string>
+
+    <string-array name="exercise_list">
+        <item>Select</item>
+        <item>Cycling</item>
+        <item>Jogging</item>
+        <item>Jumping Jacks</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Pullup</item>
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Stair-Climbing</item>
+        <item>Swimming</item>
+        <item>Walking</item>
+    </string-array>
+    <string name="title_activity_goal_calories">Calories To Burn</string>
+</resources>
