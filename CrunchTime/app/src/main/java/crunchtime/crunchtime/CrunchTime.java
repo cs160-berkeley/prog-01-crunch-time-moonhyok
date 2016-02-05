@@ -177,7 +177,7 @@ public class CrunchTime extends AppCompatActivity {
             mEquiv.setText(equivText);
 
         } else if (Objects.equals(equiv,"Pullup")){
-            String equivText = "Which is equivalent to:\n" + i + " " +equiv+"(s)";
+            String equivText = "Which is equivalent to:\n" + t + " " +equiv+"(s)";
             mEquiv.setText(equivText);
 
         } else if (Objects.equals(equiv,"Cycling")){

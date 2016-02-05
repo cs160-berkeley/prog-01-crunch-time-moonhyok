@@ -12,7 +12,7 @@ Moonhyok Kim ([moonhyok@berkeley.edu](mailto:moonhyok@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://youtu.be/QNuLRdSv8-Q)
+See [Moony's Crunch Time] (https://youtu.be/QNuLRdSv8-Q)
 
 ## Screenshots
 
