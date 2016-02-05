@@ -17,6 +17,12 @@ See [Moony's Crunch Time] (https://youtu.be/QNuLRdSv8-Q)
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screen Shot 2016-02-04 at 2.56.59 PM.png" height="400" alt="Screenshot1"/>
+<img src="screenshots/Screen Shot 2016-02-04 at 6.31.43 PM.png" height="400" alt="Screenshot2"/>
+<img src="screenshots/Screen Shot 2016-02-04 at 6.32.03 PM.png" height="400" alt="Screenshot3"/>
+<img src="screenshots/Screen Shot 2016-02-04 at 2.56.49 PM.png" height="400" alt="Screenshot4"/>
+
+
 
 ## Acknowledgments
 
